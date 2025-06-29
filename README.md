@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Biniya!
 
-<!--
-**mr-bini/mr-bini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 😊  
+I'm a passionate web developer who loves building websites, learning new technologies, and solving real-world problems with code.
 
-Here are some ideas to get you started:
+## 💻 What I Do
+- 🔧 Build modern web applications
+- 🌐 Create responsive and user-friendly websites
+- 🚀 Always exploring new ideas and tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+Feel free to explore my repos, drop a star ⭐️, or say hi!  
+I'm always open to collaboration and learning together.
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for visiting! 🙌
